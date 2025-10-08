@@ -1,3 +1,4 @@
+![android-chrome-192x192](https://github.com/UTS23/BRAZO_ROBOTICO/assets/112002842/41521038-4ec2-4447-8d35-35f495c8c986)
 
 
 # BRAZO_ROBOTICO
