@@ -64,4 +64,4 @@ Una vez que el brazo robótico está ensamblado y el código cargado, puedes con
 
 ## Contacto
 
-Para cualquier consulta o sugerencia, puedes contactarme en [josealejandrouribesilva@gmail.com](joseauribe@uts.edu.co).
+Para cualquier consulta o sugerencia, puedes contactarme en [josealejandrouribesilva@gmail.com](joseauribe@uts.edu.co)
